@@ -87,4 +87,4 @@ This behavior is only active when the code is running as a frozen executable.
 =======
 # Key-Logger
 I have developed a key logger that save the record of everykey you have presses on keyboard even passwords, each and everything.
->>>>>>> 3aaf650d20c1627c09813a41bb8eebb82b19cbbd
+

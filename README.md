@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Keylogger Project
 
 > **Important:** This project records keyboard and mouse activity. Do not run or distribute it without explicit permission from the device owner. Unauthorized use may be illegal and unethical.
@@ -83,3 +84,7 @@ This behavior is only active when the code is running as a frozen executable.
 - If `python` is not recognized, install Python and add it to your PATH.
 - If `pynput` fails to import, verify the package is installed in the same Python environment used to run the script.
 - If the executable does not start, check `dist\logger\logger.exe` and run it from a command prompt for error output.
+=======
+# Key-Logger
+I have developed a key logger that save the record of everykey you have presses on keyboard even passwords, each and everything.
+>>>>>>> 3aaf650d20c1627c09813a41bb8eebb82b19cbbd
